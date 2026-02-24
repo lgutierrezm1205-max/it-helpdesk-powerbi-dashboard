@@ -55,7 +55,6 @@ AVERAGEX(
 - **Line Chart** — Ticket volume trend by month
 - **Bar Charts** — Tickets by agent and by category
 - **Donut Chart** — Distribution by priority (Critical / High / Medium / Low)
-- **Table** — Client summary with SLA % and satisfaction score
 - **Slicers** — Status, Priority, Channel, Month
 
 ---
